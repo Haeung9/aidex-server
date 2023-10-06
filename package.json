@@ -1,0 +1,13 @@
+{
+  "name": "aidex-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "author": "Haeung9",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^16.3.1",
+    "web3": "^4.1.2"
+  }
+}
